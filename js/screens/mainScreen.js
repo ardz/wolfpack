@@ -7,7 +7,7 @@ class mainScreen {
 
     // Define selectors for elements
     get button() { return this.driver.$('~buttonId'); }
-    get label() { return browser.$('~labelId'); }
+    get label() { return this.driver.$('~labelId'); }
 
     // Define methods to interact with the elements
     async clickButton() {
@@ -15,12 +15,20 @@ class mainScreen {
     }
 
     async getLabelText() {
-        return await this.label.getText();
     }
 
     // Optionally: Define a method to navigate to the screen (if needed)
     async open() {
-        await browser.url('your-app-url'); // Replace 'your-app-url' with the actual URL or app path
+        // BUG?
+        // the AndroidManifest.xml file doesn't have
+        // a package attribute below the <manifest> tag
+        // got this by using:
+        // ```adb shell
+        // dumpsys window displays | grep -E 'mCurrentFocus'```
+
+        await this.driver.startActivity("com.palringo.qa_automation_android",
+            ".MainActivity");
+
     }
 }
 
