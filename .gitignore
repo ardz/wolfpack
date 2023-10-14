@@ -1,5 +1,8 @@
 # Common IntelliJ Platform excludes
 
+dot net/
+js/mochawesome-report/
+
 # User specific
 **/.idea/**/workspace.xml
 **/.idea/**/tasks.xml

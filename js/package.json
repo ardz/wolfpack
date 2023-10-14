@@ -4,7 +4,7 @@
   "description": "example automated test for wolf app",
   "main": "index.js",
   "scripts": {
-    "test": "mocha"
+    "test": "mocha ./test/test.js  --reporter mochawesome"
   },
   "author": "Richard Wallis <richard@developerintest.dev>",
   "license": "ISC",
