@@ -3,6 +3,8 @@
 
 A comprehensive development environment setup guide for running automated tests on an Android device. Appium's tech stack is vast, with a significant initial setup phase required to start using it. This guide demonstrates the process and includes an example mocha test project. While the guide is tailored for Windows, the principles apply to other platforms. It has been verified for compatibility with Linux.
 
+[Running Example](https://www.youtube.com/watch?v=casro3ZYTig)
+
 ## Table of Contents
 
 - [Dev Environment Setup](#dev-environment-setup)
