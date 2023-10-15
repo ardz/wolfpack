@@ -3,13 +3,23 @@
 
 ![image](https://github.com/ardz/wolfpack/assets/6310248/9b3e3414-a839-4ce8-8149-ace4ed7522b5)
 
-Complete development environment setup guide for running automated tests on an android device. The tech stack for Appium is pretty deep and there is a significant initial setup phase in order to start using it. This guide shows you how to do it and an example mocha test project. I've written the guide for Windows but the principles are the same on other platforms. I've verified it also works with Linux.
+A comprehensive development environment setup guide for running automated tests on an Android device. Appium's tech stack is vast, with a significant initial setup phase required to start using it. This guide demonstrates the process and includes an example mocha test project. While the guide is tailored for Windows, the principles apply to other platforms. It has been verified for compatibility with Linux.
+
+## Table of Contents
+
+- [Dev Environment Setup](#dev-environment-setup)
+  - [Node.js](#nodejs)
+  - [Java](#java)
+  - [Android Studio](#android-studio)
+  - [Appium](#appium)
+- [Run Automated Tests](#run-automated-tests)
+- [Bug Report](#bug-report)
 
 ## Dev Environment Setup
 
 ### Node.js
 
-Install node.js https://nodejs.org/en and verify correct installation by opening a command prompt and typing
+Install [node.js](https://nodejs.org/en) and confirm its successful installation by opening a command prompt and typing:
 
 ```
 node -v
