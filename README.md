@@ -1,5 +1,5 @@
 
-# WOLFPACK
+# WOLFPACK (Submission for Tech Assessment)
 
 ![image](https://github.com/ardz/wolfpack/assets/6310248/9b3e3414-a839-4ce8-8149-ace4ed7522b5)
 
