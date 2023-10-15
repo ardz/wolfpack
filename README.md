@@ -1,8 +1,6 @@
 
 # WOLFPACK (Submission for Tech Assessment)
 
-![image](https://github.com/ardz/wolfpack/assets/6310248/9b3e3414-a839-4ce8-8149-ace4ed7522b5)
-
 A comprehensive development environment setup guide for running automated tests on an Android device. Appium's tech stack is vast, with a significant initial setup phase required to start using it. This guide demonstrates the process and includes an example mocha test project. While the guide is tailored for Windows, the principles apply to other platforms. It has been verified for compatibility with Linux.
 
 ## Table of Contents
@@ -25,7 +23,7 @@ Install [node.js](https://nodejs.org/en) and confirm its successful installation
 node -v
 ```
 
-![node](https://github.com/ardz/wolfpack/assets/6310248/eb781a24-718d-466c-af69-e376e0dc01f1)
+![image](https://github.com/ardz/wolfpack/assets/6310248/eba4e494-6d85-43cf-a4fb-e368bb37d8e0)
 
 ### Java
 
