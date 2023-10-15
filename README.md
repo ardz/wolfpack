@@ -94,7 +94,7 @@ adb devices -l
 
 You should see the emulated device now attached:
 
-![[phone.png]]
+![phone](https://github.com/ardz/wolfpack/assets/6310248/b2b95ce6-6c7f-493e-bbc7-8f163856ed4d)
 
 *There's progress now, where there once was non.*
 
