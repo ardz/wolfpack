@@ -17,7 +17,9 @@ node -v
 
 ![node](https://github.com/ardz/wolfpack/assets/6310248/eb781a24-718d-466c-af69-e376e0dc01f1)
 
-Install JDK https://www.oracle.com/uk/java/technologies/downloads/ and verify the JAVA_HOME environment variable is present. Add it if not. On Windows I've set this as a system wide variable. You can have the JDK wherever you like though:
+### Java
+
+Install the JDK https://www.oracle.com/uk/java/technologies/downloads/ and verify the JAVA_HOME environment variable is present. Add it if not. On Windows I've set this as a system wide variable. You can have the JDK wherever you like though:
 
 ![env](https://github.com/ardz/wolfpack/assets/6310248/e773e4d9-9271-4f3f-a2d3-953f4d426993)
 
