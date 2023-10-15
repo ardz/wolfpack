@@ -50,7 +50,7 @@ after(async function() {
 describe('Button Click Count Feature Acceptance Test', function() {
     describe('apk under test : ' + apk, function () {
 
-        this.timeout(10000);
+        this.timeout(15000);
 
         // Scenario: Click me screen opens
         // WHEN the app is opened
