@@ -7,9 +7,9 @@ Complete development environment setup guide for running automated tests on an a
 
 ## Table of Contents
 
-1. [Dev Environment Setup](#Dev Environment Setup)
-2. [Run Automated Tests](#Run Automated Tests)
-3. [Bug Report](###Bug Report)
+1. Dev Environment Setup
+2. Run Automated Tests
+3. Bug Report
 
 ## Dev Environment Setup
 
