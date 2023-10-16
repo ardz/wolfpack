@@ -1,4 +1,4 @@
-// FileName: ClickMeScreen.js
+// FileName: MainScreen.js
 
 class MainScreen {
     // Constructor to initialize elements on the screen
